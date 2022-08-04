@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.srm.assist.AssistAutoConfiguration,\
+org.srm.assist.callchain.autoconfig.CallChainAutoConfiguration
